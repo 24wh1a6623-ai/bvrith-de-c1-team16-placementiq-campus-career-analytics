@@ -1,4 +1,4 @@
-# [PROJECT TITLE]
+#  PlacementIQ: Campus Career Analytics
 
 > **Student note:** Start with `00_START_HERE.md` and `00_TEMPLATE_INDEX.md`. The placeholder files inside this repo are the templates.
 
@@ -14,7 +14,12 @@
 
 ## 1. Project Summary
 
-Write 5–8 lines explaining the assigned project.
+Here is a professional **5–8 line summary** for your project:
+
+
+
+**PlacementIQ: Campus Career Analytics** is a data engineering project focused on transforming raw campus placement and student performance data into meaningful insights. The project uses the Medallion Architecture (Bronze, Silver, and Gold) in Databricks to clean, standardize, and process data efficiently. Data quality checks are implemented to ensure accuracy and reliability before generating analytics-ready datasets. Gold-layer data is used to build interactive Power BI dashboards that visualize placement trends, student performance, recruiter activity, and hiring outcomes. The project also includes a streaming simulation to demonstrate real-time data processing. The final deliverables include Databricks notebooks, Gold datasets, Power BI dashboards, GitHub documentation, and a complete end-to-end data engineering pipeline.
+
 
 Example structure:
 
